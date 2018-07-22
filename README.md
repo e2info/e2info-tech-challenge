@@ -9,3 +9,7 @@
 
 * [課題1「じぶん年表」ウェブアプリケーションの作成](Challenge1/README.md)
 
+
+---
+
+![イーツー・インフォロゴ](https://github.com/e2info/e2info-warehouse/blob/master/images/logo/logo100x100_transparent.png)
