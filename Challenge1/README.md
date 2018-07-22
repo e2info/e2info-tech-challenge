@@ -22,3 +22,4 @@
 | [Step5](Step5.md) | 一覧・検索 | 一覧・検索処理の実装 | 1人日 | １週間 |
 | [Step6](Step6.md) | 編集・削除 | 編集・削除処理の実装 | 1人日 | １週間 |
 
+![イーツー・インフォロゴ](https://github.com/e2info/e2info-warehouse/blob/master/images/logo/logo100x100_transparent.png)
