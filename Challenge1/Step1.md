@@ -23,7 +23,7 @@
     * http://localhost/phpMyAdmin/
 * ※すでに業務で利用しており、設定変更により上記が表示できない場合は完了としてよい
 
-![image][113275]
+![git](https://raw.githubusercontent.com/e2info/e2info-tech-challenge/master/Challenge1/images/step1_xampp.png)
 
 ## gitクライアントのインストール
 
@@ -33,7 +33,7 @@
 
 * コマンドプロンプト／PowerShell／terminalでgitコマンドが実行できることを確認
 
-![image][113274]
+![git](https://raw.githubusercontent.com/e2info/e2info-tech-challenge/master/Challenge1/images/step1_gitcuiclient.png)
 
 ## リポジトリからプロジェクトをpull
 
