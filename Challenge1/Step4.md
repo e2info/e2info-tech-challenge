@@ -17,6 +17,6 @@
 
 以下の成果物をgitにPUSHして下さい
 
-* データベース設計書（doc/database.md）
-* DDL (db/database.sql)
-* 動作するプログラムソースコード(src)
+* データベース設計書（/e2info-[lastname]/doc/database.md）
+* DDL (/e2info-[lastname]/db/database.sql)
+* 動作するプログラムソースコード(/e2info-[lastname]/src)

@@ -11,10 +11,10 @@
         * 利用したデータベース
 * 仕様を満たすデータベース設計・構築
     * 設計／定義は以下のファイル名で作成
-        * データベース設計書（doc/database.md）
-        * DDL (db/database.sql)
+        * データベース設計書（/e2info-[lastname]/doc/database.md）
+        * DDL (/e2info-[lastname]/db/database.sql)
 * プログラム実装
-    * /e2info-[lastname]配下にプログラムを作成すること。ディレクトリ構成は任意でよい
+    * /e2info-[lastname]/src配下にプログラムを作成すること。ディレクトリ構成は任意でよい
     * 入力チェックを実装すること
 * ここで作成した資料、プログラムは後続のステップでも同じ構成で随時更新していくこと
 
@@ -26,6 +26,6 @@
 
 以下の成果物をgitにPUSHして下さい
 
-* データベース設計書（doc/database.md）
-* DDL (db/database.sql)
-* 動作するプログラムソースコード(src)
+* データベース設計書（/e2info-[lastname]/doc/database.md）
+* DDL (/e2info-[lastname]/db/database.sql)
+* 動作するプログラムソースコード(/e2info-[lastname]/src)
