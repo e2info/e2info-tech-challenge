@@ -38,9 +38,13 @@
 ## リポジトリからプロジェクトをpull
 
 * gitリポジトリからプロジェクトをpullする（リポジトリ情報は個別に連絡）
-* masterリポジトリからブランチを作成する
-    * ブランチ名をe2info-[lastname]とすること
-
+* masterブランチからブランチを作成する
+    * ブランチ名はe2info-[lastname]-step1とする
+* 作成したブランチにディレクトリを作成する
+    * ディレクトリ名は、e2info-[lastname]とする
+* 作成したディレクトリにファイルを作成する
+    * ファイル名は、README.mdとする。内容は空でよい
+* 上記のファイルをgitリポジトリにPUSHした後、masterブランチに対してプルリクエストを送る
 
 ## ゴール
 
@@ -48,7 +52,7 @@
 
 ## 成果物
 
-以下の成果物をgitにPUSHして下さい
+gitリポジトリが以下の状態になっていること
 
-* e2info-[lastname]ブランチ
-
+* e2info-[lastname]-step1ブランチにe2info-[lastname]/README.mdが存在する
+* masterブランチに対してe2info-[lastname]-step1ブランチのプルリクエストが送られている状態
