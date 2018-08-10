@@ -2,19 +2,26 @@
 
 ワイヤーフレームを参考に、新規会員登録画面を作成します。以下の作業を実施して下さい
 
+## 前提条件
+
+masterブランチから派生した以下のブランチを作成し、作業を進めること
+```
+e2info-[lastname]-step2
+```
+
 ## 作業内容
 
 * プロジェクト概要
-    * Step1で作成したREADME.mdに以下の内容を記載すること。なお、以下の内容以外も自由に記述して良い。
+    * Step1で作成した```README.md```に以下の内容を記載すること。なお、以下の内容以外も自由に記述して良い。
         * プロジェクトの概要
         * 利用したプログラム言語
         * 利用したデータベース
 * 仕様を満たすデータベース設計・構築
     * 設計／定義は以下のファイル名で作成
-        * データベース設計書（/e2info-[lastname]/doc/database.md）
-        * DDL (/e2info-[lastname]/db/database.sql)
+        * データベース設計書（```/e2info-[lastname]/doc/database.md```）
+        * DDL (```/e2info-[lastname]/db/database.sql```)
 * プログラム実装
-    * /e2info-[lastname]/src配下にプログラムを作成すること。ディレクトリ構成は任意でよい
+    * ```/e2info-[lastname]/src```配下にプログラムを作成すること。ディレクトリ構成は任意でよい
     * 入力チェックを実装すること
 * ここで作成した資料、プログラムは後続のステップでも同じ構成で随時更新していくこと
 
@@ -24,8 +31,12 @@
 
 ## 成果物
 
-以下の成果物をgitにPUSHして下さい
+以下の成果物をgitにPUSHする
 
-* データベース設計書（/e2info-[lastname]/doc/database.md）
-* DDL (/e2info-[lastname]/db/database.sql)
-* 動作するプログラムソースコード(/e2info-[lastname]/src)
+* データベース設計書（```/e2info-[lastname]/doc/database.md```）
+* DDL (```/e2info-[lastname]/db/database.sql```)
+* 動作するプログラムソースコード(```/e2info-[lastname]/src```)
+
+gitリポジトリが以下の状態になっていること
+
+* ```master```ブランチに対して```e2info-[lastname]-step2```ブランチのプルリクエストが送られている状態

@@ -19,8 +19,8 @@
 
 * XAMPPコントロールパネルよりApache,MySQLを起動できることを確認
 * ブラウザで以下のURLが表示できたら完了
-    * http://localhost/
-    * http://localhost/phpMyAdmin/
+    * ```http://localhost/```
+    * ```http://localhost/phpMyAdmin/```
 * ※すでに業務で利用しており、設定変更により上記が表示できない場合は完了としてよい
 
 ![git](https://raw.githubusercontent.com/e2info/e2info-tech-challenge/master/Challenge1/images/step1_xampp.png)
@@ -31,20 +31,22 @@
 
 ### 完了条件
 
-* コマンドプロンプト／PowerShell／terminalでgitコマンドが実行できることを確認
+* コマンドプロンプト or PowerShell or terminalでgitコマンドが実行できることを確認
 
 ![git](https://raw.githubusercontent.com/e2info/e2info-tech-challenge/master/Challenge1/images/step1_gitcuiclient.png)
 
 ## リポジトリからプロジェクトをpull
 
-* gitリポジトリからプロジェクトをpullする（リポジトリ情報は個別に連絡）
-* masterブランチからブランチを作成する
-    * ブランチ名はe2info-[lastname]-step1とする
-* 作成したブランチにディレクトリを作成する
-    * ディレクトリ名は、e2info-[lastname]とする
-* 作成したディレクトリにファイルを作成する
-    * ファイル名は、README.mdとする。内容は空でよい
-* 上記のファイルをgitリポジトリにPUSHした後、masterブランチに対してプルリクエストを送る
+手順
+
+1. gitリポジトリからプロジェクトをpullする（リポジトリ情報は個別に連絡）
+2. masterブランチからブランチを作成する
+    * ブランチ名は```e2info-[lastname]-step1```とする
+3. 作成したブランチにディレクトリを作成する
+    * ディレクトリ名は、```e2info-[lastname]```とする
+4. 作成したディレクトリにファイルを作成する
+    * ファイル名は、```README.md```とする。内容は空でよい
+5. 上記のファイルをgitリポジトリにPUSHした後、masterブランチに対してプルリクエストを送る
 
 ## ゴール
 
@@ -54,5 +56,5 @@
 
 gitリポジトリが以下の状態になっていること
 
-* e2info-[lastname]-step1ブランチにe2info-[lastname]/README.mdが存在する
-* masterブランチに対してe2info-[lastname]-step1ブランチのプルリクエストが送られている状態
+* ```e2info-[lastname]-step1```ブランチに```e2info-[lastname]/README.md```が存在する
+* ```master```ブランチに対して```e2info-[lastname]-step1```ブランチのプルリクエストが送られている状態

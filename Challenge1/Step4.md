@@ -2,6 +2,13 @@
 
 ワイヤーフレームを参考に、年表登録機能を実装します。
 
+## 前提条件
+
+masterブランチから派生した以下のブランチを作成し、作業を進めること
+```
+e2info-[lastname]-step4
+```
+
 ## 作業内容
 
 * 年表テーブルの作成
@@ -15,8 +22,12 @@
 
 ## 成果物
 
-以下の成果物をgitにPUSHして下さい
+以下の成果物をgitにPUSHする
 
-* データベース設計書（/e2info-[lastname]/doc/database.md）
-* DDL (/e2info-[lastname]/db/database.sql)
-* 動作するプログラムソースコード(/e2info-[lastname]/src)
+* データベース設計書（```/e2info-[lastname]/doc/database.md```）
+* DDL (```/e2info-[lastname]/db/database.sql```)
+* 動作するプログラムソースコード(```/e2info-[lastname]/src```)
+
+gitリポジトリが以下の状態になっていること
+
+* ```master```ブランチに対して```e2info-[lastname]-step4```ブランチのプルリクエストが送られている状態
