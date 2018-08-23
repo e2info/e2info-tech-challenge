@@ -21,7 +21,7 @@ e2info-[lastname]-step3
 ## 成果物
 
 以下の成果物をgitにPUSHする
-3
+
 * 動作するプログラムソースコード(```/e2info-[lastname]/src```)
 
 gitリポジトリが以下の状態になっていること
