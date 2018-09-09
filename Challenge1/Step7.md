@@ -26,6 +26,7 @@ e2info-[lastname]-step7
 ### プロフィールの取得
     
 * /api/profileへのGetアクセスで以下の情報が返却されること
+    * /api/profile/[userid]でもよい
 
 ```
 HTTP/1.1 200 OK
@@ -43,6 +44,7 @@ Content-Type: application/json
 ### 年表の取得
 
 * /api/historyへのGetアクセスで以下の情報が返却されること
+    * /api/history/[userid]でもよい
 ```
 HTTP/1.1 200 OK
 Content-Type: application/json
@@ -71,10 +73,8 @@ Content-Type: application/json
 
 ## ゴール
 
-* 登録済みの年表データを編集できること
-* 登録済みの年表データを削除できること
-    * 削除前に、削除確認されること（ダイアログ、確認画面など方法はなんでもよい）
-* 削除は、物理削除／論理削除どちらでもよい
+* APIでユーザープロフィールを取得できること
+* APIで年表を取得できること
 
 ## 成果物
 
