@@ -1,6 +1,8 @@
 # PHP/Challenge0
 
-* メールフォームを作成します
+* お問い合わせフォームを作成します
+* 例
+    * https://www.e2info.co.jp/contact.html
 
 ### 概要
 
