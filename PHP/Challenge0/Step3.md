@@ -6,7 +6,7 @@ Step2で作成したフォームの入力チェックを実装します
 
 masterブランチから派生した以下のブランチを作成し、作業を進めること
 ```
-e2info-[lastname]-step2
+e2info-[lastname]-step3
 ```
 
 ## 作業内容
@@ -40,4 +40,4 @@ e2info-[lastname]-step2
 
 gitリポジトリが以下の状態になっていること
 
-* ```master```ブランチに対して```e2info-[lastname]-step2```ブランチのプルリクエストが送られている状態
+* ```master```ブランチに対して```e2info-[lastname]-step3```ブランチのプルリクエストが送られている状態

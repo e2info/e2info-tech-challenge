@@ -23,5 +23,6 @@
 | [Step2](Step2.md) | 画面遷移、PHPで画面間の値の受け渡し | HTML/PHP | 1人日 | 3日 |
 | [Step3](Step3.md) | 入力チェック | 1人日 | 3日 |
 | [Step4](Step4.md) | メール送信 | メール送信 | 1人日 | 3日 |
+| [Step4](Step5.md) | ログ出力 | ログ出力 | 1人日 | 3日 |
 
 ![イーツー・インフォロゴ](https://raw.githubusercontent.com/e2info/e2info-warehouse/master/images/logo/logo100x100_transparent.png)
