@@ -19,8 +19,9 @@
 
 |  段階 | 概要 | 学習観点 | 想定工数 | 想定期間 |
 |  ------ | ------ | ------  | ------ | ------ |
-| [前提条件](Step0.md) / [Step1](Step1.md) | 前提条件の確認・環境構築 | 開発環境の構築 | 0.5人日 | 1日 |
+| [前提条件](../Common/Step0.md) / [Step1](../Common/Step1.md) | 前提条件の確認・環境構築 | 開発環境の構築 | 0.5人日 | 1日 |
 | [Step2](Step2.md) | 画面遷移、PHPで画面間の値の受け渡し | HTML/PHP | 1人日 | 3日 |
-| [Step3](Step3.md) | メール送信 | PHPでメール送信する方法 | 1人日 | 3日 |
+| [Step3](Step3.md) | 入力チェック | 1人日 | 3日 |
+| [Step4](Step4.md) | メール送信 | メール送信 | 1人日 | 3日 |
 
 ![イーツー・インフォロゴ](https://raw.githubusercontent.com/e2info/e2info-warehouse/master/images/logo/logo100x100_transparent.png)
