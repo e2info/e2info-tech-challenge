@@ -13,6 +13,8 @@
     * 課題2 Coming Soon... （たぶんTDDやる）
 * WordPress
     * [課題1 WordPress基礎](WordPress/Challenge1/README.md)
+* AWS
+    * [課題1 踏み台サーバーを手動で作成](AWS/Challenge1/README.md)
 
 ![イーツー・インフォロゴ](https://raw.githubusercontent.com/e2info/e2info-warehouse/master/images/logo/logo100x100_transparent.png)
 
